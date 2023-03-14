@@ -11,4 +11,4 @@ redirect_from:
 
 # Welcome!
 
-I am a student in the Department of Statistics at The Chinese University of Hong Kong (CUHK).
+I am a student in the Department of *Statistics*{: style="color: red"} at The Chinese University of Hong Kong (CUHK).
