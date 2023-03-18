@@ -16,6 +16,7 @@ I am currently a student at The Chinese University of Hong Kong (CUHK), studying
 I am deeply intrigued by the power of data-driven approaches to address complex challenges and uncover insights in the real world. As a statistics student, I have cultivated a solid understanding of statistical theory and methodology, as well as the practical skills in programming.
 
 On this website, you'll find information about my academic and background, as well as examples of my work in the following areas:
+
 | **Statistical Machine Learning** | **Deep learning**       | **Data Analysis**   | **Data Visualization**     |
 |:--------------------------------:|:-----------------------:|:-------------------:|:--------------------------:|
 | **Statistical Inference**        | **Database Management** | **Web Development** | **Software Engineering**   |
