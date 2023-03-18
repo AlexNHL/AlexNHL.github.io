@@ -17,7 +17,7 @@ I am deeply intrigued by the power of data-driven approaches to address complex 
 
 On this website, you'll find information about my academic and background, as well as examples of my work in the following areas:
 
-| **Statistical Machine Learning** | **Deep learning**       | **Data Analysis**   | **Data Visualization**     |
+| **Statistical Machine Learning** | **Deep Learning**       | **Data Analysis**   | **Data Visualization**     |
 |:--------------------------------:|:-----------------------:|:-------------------:|:--------------------------:|
 | **Statistical Inference**        | **Database Management** | **Web Development** | **Software Engineering**   |
 
