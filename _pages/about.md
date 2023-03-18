@@ -21,6 +21,7 @@ On this website, you'll find information about my academic and background, as we
 |:--------------------------------:|:-----------------------:|:-------------------:|:--------------------------:|
 | **Statistical Inference**        | **Database Management** | **Web Development** | **Software Engineering**   |
 
+&nbsp
 
 # Certificates/ Awards
 * <sup>:desktop_computer: Google Data Analytics Professional Certificate, Coursera (in progress)</sup>
