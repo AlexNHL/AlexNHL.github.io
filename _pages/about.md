@@ -24,7 +24,7 @@ On this website, you'll find information about my academic and background, as we
 
 # Certificates/ Awards
 * <sup>:desktop_computer: Google Data Analytics Professional Certificate, Coursera (in progress)</sup>
-* :books: Certificate of Academic Merit, Shaw College, CUHK (2021-2022)
-* :desktop_computer: Fundamentals of Accelerated Data Science with RAPIDS, NVIDIA Deep Learning Institute (2022)
-* :desktop_computer: Fundamentals of Deep Learning, NVIDIA Deep Learning Institute (2022)
+* <sup>:books: Certificate of Academic Merit, Shaw College, CUHK (2021-2022)</sup>
+* <sup>:desktop_computer: Fundamentals of Accelerated Data Science with RAPIDS, NVIDIA Deep Learning Institute (2022)</sup>
+* <sup>:desktop_computer: Fundamentals of Deep Learning, NVIDIA Deep Learning Institute (2022)</sup>
 
