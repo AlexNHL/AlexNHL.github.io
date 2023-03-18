@@ -11,7 +11,7 @@ redirect_from:
 
 # Welcome!
 
-I am currently a student at The Chinese University of Hong Kong (CUHK), majoring in *Statistics*{: style="color: red"}. I have a passion for statistical machine learning, deep learning, and statistical inference using both parametric and non-parametric methods.
+I am currently a student at The Chinese University of Hong Kong (CUHK), studying *Statistics*{: style="color: red"} and Computer Science. I have a strong interest and passion for statistical machine learning, deep learning, and statistical inference utilizing both parametric and non-parametric methods.
 
 I am deeply intrigued by the power of data-driven approaches to address complex challenges and uncover insights in the real world. As a statistics student, I have cultivated a solid understanding of statistical theory and methodology, as well as the practical skills in programming.
 
