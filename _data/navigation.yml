@@ -13,8 +13,8 @@ main:
   - title: "Sharing"
     url: /sharing/
    
-  - title: "Resume"
-    url: /cv/
+#  - title: "Resume"
+#    url: /cv/
    
   - title: "Contact"
     url: /contact/
