@@ -14,6 +14,7 @@ redirect_from:
  * Matplotlib
  * Seaborn
  * Scikit-learn
+ * TensorFlow
  * SciPy
 
 ## R
