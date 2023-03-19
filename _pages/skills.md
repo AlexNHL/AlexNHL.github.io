@@ -38,9 +38,9 @@ redirect_from:
 * Data modeling: create and modify database structures, including tables, indexes, and constraints
 * Interaction: Use other tools, such as Python, JAVA, Tableau, to access the database, select and retrieve data by SQL queries
 
-## Excel
-
 ## NoSQL (MongoDB)
+
+## Excel
 
 ## JAVA
 
