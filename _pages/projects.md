@@ -6,7 +6,7 @@ redirect_from:
 
 ---
 
-## Exploring Happiness Correlations with Machine Learning and Deep Learning
+### Exploring Happiness Correlations with Machine Learning and Deep Learning
 
 * Analyzed the correlation between the happiness score and multiple socioeconomical factors
 * Predicted the happiness score and identified significant factors
