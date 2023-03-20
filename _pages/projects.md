@@ -10,7 +10,7 @@ redirect_from:
 
 * Analyzed the correlation between the happiness score and multiple socioeconomical factors
 * Predicted the happiness score and identified significant factors
-* Applied machine learning methods, including Decision Tree, Random Forest, XGBoost, to regress the happiness score index
+* Applied machine learning methods, including Decision Tree, Random Forest, Extreme Gradient Boosting
 * Applied deep learning methods, including Multilayer Perception (MLP), and Convolutional Neural Network (CNN)
 * Conducted error analysis to compare the performance of different models
 * Applied psychological theories and research to support the results
@@ -21,7 +21,6 @@ redirect_from:
 * Developed an event check system for LCSD Cultural Programmes, enabling users to access event information across different locations
 * Implemented the system using React for the front-end and Node.js with Express for the back-end
 * Utilized MongoDB as the database, containing user and event information
-* Incorporated responsive web design for optimal user experience
 * Enabled users to search locations by keyword or categories, comment on events, and label locations as favorites
 
 
@@ -44,9 +43,9 @@ redirect_from:
 
 ## Classifying Water Potability with Classification Models
 
-* Used classifiers to classify the substance, chemical element, and feature of water to determine if it is safe for human consumption
+* Classified water potability by its features, substance, chemical element, to determine whether it is safe for human consumption
 * Preprocessed the data using procedures like data cleaning, correlation, and feature scaling
-* Compared the ROC curve and accuracy score of four machine learning models: K-nearest neighbors algorithm, random forest, Support Vector Machine, and Gaussian process classification
+* Compared the ROC curve and accuracy score of machine learning models: K-Nearest Neighbors algorithm, Random Forest, Support Vector Machine, and Gaussian process classification
 * Identified the most suitable method by error analysis
 
 
