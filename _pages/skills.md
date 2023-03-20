@@ -31,6 +31,7 @@ redirect_from:
 * Create calculation fields to perform advanced calculations
 * Use parameters to create interactive visualizations
 * Present the results using dashboards
+* interact between different visualizations in dashboard by actions
 
 ## SQL (MySQL, Oracle)
 * Data cleaning: remove duplicates, filter and sort data, transform data, and validate data integrity
