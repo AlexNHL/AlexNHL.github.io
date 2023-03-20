@@ -11,5 +11,6 @@ redirect_from:
 * [Homepage at Github](https://github.com/AlexNHL)
 
 
-If you have any questions, comments, or would like to discuss potential opportunities, please don't hesitate to reach out. I look forward to hearing from you!
+If you have any questions, comments, or would like to discuss potential opportunities, please don't hesitate to reach out.
+I look forward to hearing from you!
 {: .notice}
