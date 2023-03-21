@@ -6,7 +6,7 @@ redirect_from:
 
 ---
 
-## Individual Project
+## Individual
 
 ### [Data Visualization on Data Science Job Salaries in Tableau](https://github.com/AlexNHL/dv_ds_salary)
 
@@ -18,9 +18,9 @@ redirect_from:
 
 &nbsp;
 
-## Group Project 
+## Group
 
-### Exploring Happiness Correlations with Machine Learning and Deep Learning
+### [Exploring Happiness Correlations with Machine Learning and Deep Learning](https://github.com/AlexNHL/ml_dl_happiness)
 
 * Explored correlations between happiness scores and various socioeconomic factors using statistical analysis
 * Applied **machine learning**{: style="color: DarkSlateBlue"} methods, including Decision Tree, Random Forest, Extreme Gradient Boosting
