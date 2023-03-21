@@ -195,10 +195,6 @@ redirect_from:
         # dorm(x) gives the density of x
         ```
         
-        - Graph
-            
-            ![Untitled](R%2068ece6c6cdd342ab8046ad396f313a5b/Untitled%202.png)
-            
         
         ```r
         pnorm(p)
