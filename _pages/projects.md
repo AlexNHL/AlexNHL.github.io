@@ -5,15 +5,7 @@ author_profile: true
 redirect_from: 
 
 ---
-
-## Exploring Happiness Correlations with Machine Learning and Deep Learning
-
-* Explored correlations between happiness scores and various socioeconomic factors using statistical analysis
-* Applied **machine learning**{: style="color: DarkSlateBlue"} methods, including Decision Tree, Random Forest, Extreme Gradient Boosting
-* Applied **deep learning**{: style="color: DarkSlateBlue"} methods, including Multilayer Perception (MLP), and Convolutional Neural Network (CNN)
-* Predicted the happiness score and identified the most significant factors that contribute to happiness scores
-* Conducted **error analysis**{: style="color: DarkSlateBlue"} to compare the performance of different models
-* Applied psychological theories and research to provide a more comprehensive understanding
+# Individual Project
 
 ## [Data Visualization on Data Science Job Salaries in Tableau](https://github.com/AlexNHL/dv_ds_salary)
 
@@ -23,6 +15,18 @@ redirect_from:
 * Created a **dashboard**{: style="color: DarkSlateBlue"} that combined multiple visualizations into a single view and allowed users to interactively explore the data with different filters
 * Applied **actions**{: style="color: DarkSlateBlue"} to create interactivity between different visualizations in the dashboard, such as highlighting the data points in other visualizations when users selected a specific data in the map or chart
 
+&nbsp;
+
+# Group Project 
+
+## Exploring Happiness Correlations with Machine Learning and Deep Learning
+
+* Explored correlations between happiness scores and various socioeconomic factors using statistical analysis
+* Applied **machine learning**{: style="color: DarkSlateBlue"} methods, including Decision Tree, Random Forest, Extreme Gradient Boosting
+* Applied **deep learning**{: style="color: DarkSlateBlue"} methods, including Multilayer Perception (MLP), and Convolutional Neural Network (CNN)
+* Predicted the happiness score and identified the most significant factors that contribute to happiness scores
+* Conducted **error analysis**{: style="color: DarkSlateBlue"} to compare the performance of different models
+* Applied psychological theories and research to provide a more comprehensive understanding
 
 ## [Web Application of Event Check System](https://github.com/AlexNHL/web_event)
 
