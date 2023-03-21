@@ -37,7 +37,7 @@ redirect_from:
 * Enabled users to search locations by keyword or categories, comment on events, and label locations as favorites
 
 
-## Predicting Diabetes with Machine Learning Models and SMOTE
+### Predicting Diabetes with Machine Learning Models and SMOTE
 
 * Determined the best indicators for predicting whether a patient has diabetes and generated insights into each of these risk factors
 * Addressed the accuracy paradox caused by an imbalanced dataset by adopting the **Synthetic Minority Oversampling Technique (SMOTE)**{: style="color: DarkSlateBlue"}
@@ -45,7 +45,7 @@ redirect_from:
 * Conducted **error analysis**{: style="color: DarkSlateBlue"} to compare the performance of different models
 
 
-## Applications of Hidden Markov Models in Earthquake Prediction
+### Applications of Hidden Markov Models in Earthquake Prediction
 
 * Identified seismicity patterns to evaluate earthquake risk in earthquake-prone areas
 * Determined the best **Hidden Markov Models**{: style="color: DarkSlateBlue"} for predicting earthquakes by global decoding **(Viterbi Algorithm)**{: style="color: DarkSlateBlue"}
@@ -54,7 +54,7 @@ redirect_from:
 * Predicted the years with high-frequency earthquakes
 
 
-## [Classifying Water Potability with Classification Models](https://github.com/AlexNHL/ml_potability)
+### [Classifying Water Potability with Classification Models](https://github.com/AlexNHL/ml_potability)
 
 * Classified water potability by its features, substance, chemical element, to determine whether it is safe for human consumption
 * Preprocessed the data using procedures like **data cleaning**{: style="color: DarkSlateBlue"}, correlation, and feature scaling
