@@ -15,7 +15,7 @@ redirect_from:
 * Conducted **error analysis**{: style="color: DarkSlateBlue"} to compare the performance of different models
 * Applied psychological theories and research to provide a more comprehensive understanding
 
-## [Data Visualization on Data Science Job Salaries in Tableau](https://github.com/AlexNHL/datajob_salary)
+## [Data Visualization on Data Science Job Salaries in Tableau](https://github.com/AlexNHL/dv_ds_salary)
 
 * Performed **data cleaning**{: style="color: DarkSlateBlue"} on ambiguous attributes, missing values, and irrelevant data
 * Created **visualizations**{: style="color: DarkSlateBlue"} and **calculation fields**{: style="color: DarkSlateBlue"} that showed the distribution, trends, and percentage changes of salaries by different attributes
@@ -49,7 +49,7 @@ redirect_from:
 * Predicted the years with high-frequency earthquakes
 
 
-## [Classifying Water Potability with Classification Models](https://github.com/AlexNHL/water_potability)
+## [Classifying Water Potability with Classification Models](https://github.com/AlexNHL/ml_potability)
 
 * Classified water potability by its features, substance, chemical element, to determine whether it is safe for human consumption
 * Preprocessed the data using procedures like **data cleaning**{: style="color: DarkSlateBlue"}, correlation, and feature scaling
