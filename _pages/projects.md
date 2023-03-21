@@ -1,11 +1,12 @@
 ---
 permalink: /projects/
+title: ""
 author_profile: true
 redirect_from: 
 
 ---
 
-## Individual
+# Individual
 
 ### [Data Visualization on Data Science Job Salaries in Tableau](https://github.com/AlexNHL/dv_ds_salary)
 
@@ -17,7 +18,7 @@ redirect_from:
 
 &nbsp;
 
-## Group
+# Group
 
 ### [Exploring Happiness Correlations with Machine Learning and Deep Learning](https://github.com/AlexNHL/ml_dl_happiness)
 
