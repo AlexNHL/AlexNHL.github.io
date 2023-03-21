@@ -1,10 +1,11 @@
 ---
 permalink: /projects/
-title:
+title: ""
 author_profile: true
 redirect_from: 
 
 ---
+
 # Individual Project
 
 ## [Data Visualization on Data Science Job Salaries in Tableau](https://github.com/AlexNHL/dv_ds_salary)
