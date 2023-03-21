@@ -6,9 +6,9 @@ redirect_from:
 
 ---
 
-# Individual Project
+## Individual Project
 
-## [Data Visualization on Data Science Job Salaries in Tableau](https://github.com/AlexNHL/dv_ds_salary)
+### [Data Visualization on Data Science Job Salaries in Tableau](https://github.com/AlexNHL/dv_ds_salary)
 
 * Performed **data cleaning**{: style="color: DarkSlateBlue"} on ambiguous attributes, missing values, and irrelevant data
 * Created **visualizations**{: style="color: DarkSlateBlue"} and **calculation fields**{: style="color: DarkSlateBlue"} that showed the distribution, trends, and percentage changes of salaries by different attributes
@@ -18,9 +18,9 @@ redirect_from:
 
 &nbsp;
 
-# Group Project 
+## Group Project 
 
-## Exploring Happiness Correlations with Machine Learning and Deep Learning
+### Exploring Happiness Correlations with Machine Learning and Deep Learning
 
 * Explored correlations between happiness scores and various socioeconomic factors using statistical analysis
 * Applied **machine learning**{: style="color: DarkSlateBlue"} methods, including Decision Tree, Random Forest, Extreme Gradient Boosting
@@ -29,7 +29,7 @@ redirect_from:
 * Conducted **error analysis**{: style="color: DarkSlateBlue"} to compare the performance of different models
 * Applied psychological theories and research to provide a more comprehensive understanding
 
-## [Web Application of Event Check System](https://github.com/AlexNHL/web_event)
+### [Web Application of Event Check System](https://github.com/AlexNHL/web_event)
 
 * Developed an event check system for LCSD Cultural Programmes, enabling users to access event information across different locations
 * Implemented the system using **React**{: style="color: DarkSlateBlue"} for the front-end and **Node.js**{: style="color: DarkSlateBlue"} with **Express**{: style="color: DarkSlateBlue"} for the back-end
