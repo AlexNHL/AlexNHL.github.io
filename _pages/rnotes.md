@@ -1169,6 +1169,7 @@ redirect_from:
     | do.call(FUN, list) | Apply to the list as a whole, only one function call | list | depend on FUN |
     | by(DF, INDEX, FUN) | Apply on subset of the df broken down by given factors | df, vector | depend on FUN |
     | aggregate(x, by,  FUN) | split and apply transformation  | list, df | depend on FUN |
+    
     - apply
         
         ```r
@@ -1469,6 +1470,7 @@ redirect_from:
     | modify(.x, .f) | returns the same type as the input object | based on input |
     | walk(.x, .f) | calls .f for its side-effect and returns the input .x | no outputs |
     | invoke_map(.f, .x) | pair of funs, combine fun and para to get results | list |
+    
     - map
         
         ```r
@@ -2130,3 +2132,5 @@ redirect_from:
     | quantmod | assist the quantitative trader in development, testing, statistically based trading models |
     | sas7bdat | read in the SAS data set |
     | tidyverse | tidyverse_update() for updating the package |
+    
+    
