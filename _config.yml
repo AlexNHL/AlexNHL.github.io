@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           :  # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # example: "http://yourfullgooglescholarurl.com"
-  email            :  "nghonlamalex@gmail.com"
+  email            : "nghonlamalex@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://alexnhl.github.io/"
   bitbucket        :
