@@ -2130,4 +2130,3 @@ redirect_from:
     | quantmod | assist the quantitative trader in development, testing, statistically based trading models |
     | sas7bdat | read in the SAS data set |
     | tidyverse | tidyverse_update() for updating the package |
-    |  |  |
