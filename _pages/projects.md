@@ -15,7 +15,7 @@ redirect_from:
 * Conducted **error analysis**{: style="color: DarkSlateBlue"} to compare the performance of different models
 * Applied psychological theories and research to provide a more comprehensive understanding
 
-## Data Visualization on Insights of Data Science Job Salaries
+## Data Visualization on Data Science Job Salaries in Tableau
 
 * Performed **data cleaning**{: style="color: DarkSlateBlue"} on ambiguous attributes, missing values, and irrelevant data
 * Created **visualizations**{: style="color: DarkSlateBlue"} and **calculation fields**{: style="color: DarkSlateBlue"} that showed the distribution, trends, and percentage changes of salaries by different attributes
