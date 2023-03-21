@@ -8,14 +8,14 @@ redirect_from:
 
 ## Exploring Happiness Correlations with Machine Learning and Deep Learning
 
-* Analyzed the correlation between the happiness score and multiple socioeconomical factors
-* Predicted the happiness score and identified significant factors
+* Explored correlations between happiness scores and various socioeconomic factors using statistical analysis
 * Applied machine learning methods, including Decision Tree, Random Forest, Extreme Gradient Boosting
 * Applied deep learning methods, including Multilayer Perception (MLP), and Convolutional Neural Network (CNN)
+* Predicted the happiness score and identified the most significant factors that contribute to happiness scores
 * Conducted error analysis to compare the performance of different models
-* Applied psychological theories and research to support the results
+* Applied psychological theories and research to provide a more comprehensive understanding
 
-## Data Visualization on Insight of Data Science Job Salaries
+## Data Visualization on Insights of Data Science Job Salaries
 
 * Performed data cleaning on ambiguous attributes, missing values, and irrelevant data
 * Created visualizations and calculation fields that showed the distribution, trends, and percentage changes of salaries by different attributes
