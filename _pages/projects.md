@@ -24,7 +24,7 @@ redirect_from:
 * Applied **actions**{: style="color: DarkSlateBlue"} to create interactivity between different visualizations in the dashboard, such as highlighting the data points in other visualizations when users selected a specific data in the map or chart
 
 
-## Web Application of Event Check System
+## [Web Application of Event Check System](https://github.com/AlexNHL/web_event)
 
 * Developed an event check system for LCSD Cultural Programmes, enabling users to access event information across different locations
 * Implemented the system using **React**{: style="color: DarkSlateBlue"} for the front-end and **Node.js**{: style="color: DarkSlateBlue"} with **Express**{: style="color: DarkSlateBlue"} for the back-end
