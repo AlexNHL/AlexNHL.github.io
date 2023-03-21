@@ -49,7 +49,7 @@ redirect_from:
 * Predicted the years with high-frequency earthquakes
 
 
-## Classifying Water Potability with Classification Models
+## [Classifying Water Potability with Classification Models](https://github.com/AlexNHL/water_potability)
 
 * Classified water potability by its features, substance, chemical element, to determine whether it is safe for human consumption
 * Preprocessed the data using procedures like **data cleaning**{: style="color: DarkSlateBlue"}, correlation, and feature scaling
