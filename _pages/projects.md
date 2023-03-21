@@ -45,7 +45,7 @@ redirect_from:
 * Conducted **error analysis**{: style="color: DarkSlateBlue"} to compare the performance of different models
 
 
-### Applications of Hidden Markov Models in Earthquake Prediction
+### [Applications of Hidden Markov Models in Earthquake Prediction](https://github.com/AlexNHL/hmm_earthquake)
 
 * Identified seismicity patterns to evaluate earthquake risk in earthquake-prone areas
 * Determined the best **Hidden Markov Models**{: style="color: DarkSlateBlue"} for predicting earthquakes by global decoding **(Viterbi Algorithm)**{: style="color: DarkSlateBlue"}
