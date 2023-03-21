@@ -18,7 +18,7 @@ redirect_from:
 ## Data Visualization on Insights of Data Science Job Salaries
 
 * Performed **data cleaning**{: style="color: DarkSlateBlue"} on ambiguous attributes, missing values, and irrelevant data
-* Created **visualizations**{: style="color: DarkSlateBlue"} and *calculation fields*{: style="color: DarkSlateBlue"} that showed the distribution, trends, and percentage changes of salaries by different attributes
+* Created **visualizations**{: style="color: DarkSlateBlue"} and **calculation fields**{: style="color: DarkSlateBlue"} that showed the distribution, trends, and percentage changes of salaries by different attributes
 * Used **parameters**{: style="color: DarkSlateBlue"} to create interactive visualizations that allowed users to filter the data by different attributes
 * Created a **dashboard**{: style="color: DarkSlateBlue"} that combined multiple visualizations into a single view and allowed users to interactively explore the data with different filters
 * Applied **actions**{: style="color: DarkSlateBlue"} to create interactivity between different visualizations in the dashboard, such as highlighting the data points in other visualizations when users selected a specific data in the map or chart
