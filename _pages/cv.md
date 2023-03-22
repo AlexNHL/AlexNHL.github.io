@@ -7,53 +7,59 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+EDUCATION
+======
+* The Chinese University of Hong Kong
+* B.Sc. in Statistics, 09/2019 - Present
+* Data Analytics Stream
+* Minor in Computer Science
+* Cumulative GPA: 3.2/4.0
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
+WORK EXPERIENCE
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+### IT Support Technician, HyRead eBook, Hong Kong
+* Collaborated with IT professionals to improve the overall user experience by testing the software and translating user feedback into technical language for software engineers
+* Acted as a liaison between school and staff to facilitate the implementation of e-learning at school
+* Provided assistance to clients experiencing technical issues with hardware or software systems
+  
+PROJECT EXPERIENCE
+======
+### Predicting Diabetes with Machine Learning Models and SMOTE
+* Determined the best indicators for predicting diabetes and generated insights into the risk factors
+* Adopted the Synthetic Minority Oversampling Technique (SMOTE) to address the accuracy paradox caused by imbalanced dataset
+* Applied machine learning models, including Logistic Regression, Decision Tree, Random Forest, Support Vector Machine, Extreme Gradient Boosting, and K-Nearest Neighbours Algorithm
+* Conducted error analysis to compare the performance of different models
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### Data Visualization on Data Science Job Salaries in Tableau
+* Performed data cleaning on ambiguous attributes, missing values, and irrelevant data
+* Created visualizations, calculation fields, and parameters that showed the distribution, trends, and percentage changes of salaries by different attributes
+* Created a dashboard that combined multiple visualizations into a single view
+* Applied actions to create interactivity between different visualizations in the dashboard
 
-Publications
+
+SKILLS
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Statistics:
+  * Statistical Learning, Data Mining, Data Analysis, Data Visualization, Time Series , Statistical Inference, Nonparametric statistics, Applied Regression Analysis, Statistical Analysis for Business Decisions
+* Computer Science:
+  * Machine Learning, Deep Learning, Database Management, Web Applications, Software Engineering
+* Software:
+  * Programming: Python (Pandas, NumPy, Scikit-learn, TensorFlow, Seaborn, Matplotlib), Java, C
+  * Data Visualization and Analysis: Tableau, R (ggplot2, dplyr, tidyr), Excel, SAS
+  * Database: SQL (MySQL, Oracle), NoSQL (MongoDB)
+  * Web Application: JavaScript, Node.js, React
+* Certificates:
+  * Fundamentals of Accelerated Data Science with RAPIDS, NVIDIA Deep Learning Institute (2022)
+  * Fundamentals of Deep Learning, NVIDIA Deep Learning Institute (2022)
+    
   
-Talks
+AWARDS
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Certificate of Academic Merit, Shaw College, CUHK (2021 - 2022)
+  * Achieved outstanding academic performance in the year
+* University Admission Scholarship, Woo Hon Fai Secondary School (2019)
+  * Achieved 5* in Mathematics and M1 in HKDSE
+
+
+
