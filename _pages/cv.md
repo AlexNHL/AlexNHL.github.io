@@ -16,6 +16,7 @@ EDUCATION
 * Cumulative GPA: 3.2/4.0
 
 &nbsp;
+
 WORK EXPERIENCE
 ======
 ### IT Support Technician, HyRead eBook, Hong Kong
@@ -24,6 +25,7 @@ WORK EXPERIENCE
 * Provided assistance to clients experiencing technical issues with hardware or software systems
 
 &nbsp;
+
 PROJECT EXPERIENCE
 ======
 ### Predicting Diabetes with Machine Learning Models and SMOTE
@@ -39,6 +41,7 @@ PROJECT EXPERIENCE
 * Applied actions to create interactivity between different visualizations in the dashboard
 
 &nbsp;
+
 SKILLS
 ======
 * Statistics:
@@ -55,6 +58,7 @@ SKILLS
   * Fundamentals of Deep Learning, NVIDIA Deep Learning Institute (2022)
     
 &nbsp;
+
 AWARDS
 ======
 * Certificate of Academic Merit, Shaw College, CUHK (2021 - 2022)
