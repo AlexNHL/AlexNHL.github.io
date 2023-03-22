@@ -15,14 +15,15 @@ EDUCATION
 * Minor in Computer Science
 * Cumulative GPA: 3.2/4.0
 
-
+&nbsp;
 WORK EXPERIENCE
 ======
 ### IT Support Technician, HyRead eBook, Hong Kong
 * Collaborated with IT professionals to improve the overall user experience by testing the software and translating user feedback into technical language for software engineers
 * Acted as a liaison between school and staff to facilitate the implementation of e-learning at school
 * Provided assistance to clients experiencing technical issues with hardware or software systems
-  
+
+&nbsp;
 PROJECT EXPERIENCE
 ======
 ### Predicting Diabetes with Machine Learning Models and SMOTE
@@ -37,7 +38,7 @@ PROJECT EXPERIENCE
 * Created a dashboard that combined multiple visualizations into a single view
 * Applied actions to create interactivity between different visualizations in the dashboard
 
-
+&nbsp;
 SKILLS
 ======
 * Statistics:
@@ -53,7 +54,7 @@ SKILLS
   * Fundamentals of Accelerated Data Science with RAPIDS, NVIDIA Deep Learning Institute (2022)
   * Fundamentals of Deep Learning, NVIDIA Deep Learning Institute (2022)
     
-  
+&nbsp;
 AWARDS
 ======
 * Certificate of Academic Merit, Shaw College, CUHK (2021 - 2022)
