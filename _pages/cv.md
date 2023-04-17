@@ -20,19 +20,19 @@ EDUCATION
 WORK EXPERIENCE
 ======
 ### IT Support Technician, HyRead eBook, Hong Kong
-* Collaborated with IT professionals to improve the overall user experience by testing the software and translating user feedback into technical language for software engineers
-* Acted as a liaison between school and staff to facilitate the implementation of e-learning at school
-* Provided assistance to clients experiencing technical issues with hardware or software systems
+* Assisted IT professionals in improving the overall user experience by hardware and software testing, and translating user feedback into technical language for engineers
+• Acted as a liaison between school and staff to facilitate the implementation of e-learning at school
+• Provided assistance to clients experiencing technical issues with hardware or software systems
 
 &nbsp;
 
 PROJECT EXPERIENCE
 ======
 ### Predicting Diabetes with Machine Learning Models and SMOTE
-* Determined the best indicators for predicting diabetes and generated insights into the risk factors
-* Adopted the Synthetic Minority Oversampling Technique (SMOTE) to address the accuracy paradox caused by imbalanced dataset
-* Applied machine learning models, including Logistic Regression, Decision Tree, Random Forest, Support Vector Machine, Extreme Gradient Boosting, and K-Nearest Neighbours Algorithm
-* Conducted error analysis to compare the performance of different models
+• Determined the best indicators for predicting diabetes and generated insights into the risk factors
+• Adopted the Synthetic Minority Oversampling Technique (SMOTE) to address the accuracy paradox caused by imbalanced dataset
+• Applied machine learning models, including Logistic Regression, Decision Tree, Random Forest, Support Vector Machine, Extreme Gradient Boosting, and K-Nearest Neighbours Algorithm
+• Conducted error analysis to compare the performance of different models
 
 ### Data Visualization on Data Science Job Salaries in Tableau
 * Performed data cleaning on ambiguous attributes, missing values, and irrelevant data
