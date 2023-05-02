@@ -16,8 +16,9 @@ main:
 #  - title: "Resume"
 #    url: /cv/
    
-  - title: "Contact"
+  - title: "**Contact**{: style="color: DarkSlateBlue"}"
     url: /contact/
+   
    
    
 #  - title: "Publications"
