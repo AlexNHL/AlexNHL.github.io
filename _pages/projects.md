@@ -40,7 +40,7 @@ redirect_from:
 ### [Predicting Diabetes with Machine Learning Models and SMOTE](https://github.com/AlexNHL/ml_diabetes)
 
 * Determined the best indicators for predicting whether a patient has diabetes and generated insights into each of these risk factors
-* Addressed the accuracy paradox caused by an imbalanced dataset by adopting the **Synthetic Minority Oversampling Technique (SMOTE)**{: style="color: DarkSlateBlue"}
+* Adopted the **Synthetic Minority Oversampling Technique (SMOTE)**{: style="color: DarkSlateBlue"} to address the accuracy paradox caused by imbalanced dataset
 * Applied **machine learning**{: style="color: DarkSlateBlue"} models to classify diabetes, including Logistic Regression, Decision Tree, Random Forest, Support Vector Machine, Extreme Gradient Boosting, and K-Nearest Neighbors Algorithm
 * Conducted **error analysis**{: style="color: DarkSlateBlue"} to compare the performance of different models
 
