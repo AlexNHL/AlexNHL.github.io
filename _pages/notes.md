@@ -1,5 +1,5 @@
 ---
-permalink: /note/
+permalink: /notes/
 title: "Notes"
 author_profile: true
 redirect_from: 
