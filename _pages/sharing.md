@@ -1,6 +1,6 @@
 ---
-permalink: /sharing/
-title: "Sharing"
+permalink: /note/
+title: "Notes"
 author_profile: true
 redirect_from: 
 ---
