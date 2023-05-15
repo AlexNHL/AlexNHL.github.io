@@ -284,10 +284,11 @@ redirect_from:
         
         | Collections | ordered | changeable | duplicate members |
         | --- | --- | --- | --- |
-        | https://www.w3schools.com/python/python_lists.asp | YES | YES | YES |
-        | https://www.w3schools.com/python/python_tuples.asp | YES | NO | YES |
-        | https://www.w3schools.com/python/python_sets.asp | NO | NO | NO |
-        | https://www.w3schools.com/python/python_dictionaries.asp | YES | YES | NO |
+        | List | YES | YES | YES |
+        | Tuple | YES | NO | YES |
+        | Set | NO | NO | NO |
+        | Dictionary | YES | YES | NO |
+        
         - Casting
             - specify a type on to a variable
             - uses classes to define data types, including its primitive types
@@ -651,50 +652,51 @@ redirect_from:
             
             | Method | Description |
             | --- | --- |
-            | https://www.w3schools.com/python/ref_string_capitalize.asp | Converts the first character to upper case |
-            | https://www.w3schools.com/python/ref_string_casefold.asp | Converts string into lower case |
-            | https://www.w3schools.com/python/ref_string_center.asp | Returns a centered string |
-            | https://www.w3schools.com/python/ref_string_count.asp | Returns the number of times a specified value occurs in a string |
-            | https://www.w3schools.com/python/ref_string_encode.asp | Returns an encoded version of the string |
-            | https://www.w3schools.com/python/ref_string_endswith.asp | Returns true if the string ends with the specified value |
-            | https://www.w3schools.com/python/ref_string_expandtabs.asp | Sets the tab size of the string |
-            | https://www.w3schools.com/python/ref_string_find.asp | Searches the string for a specified value and returns the position of where it was found |
-            | https://www.w3schools.com/python/ref_string_format.asp | Formats specified values in a string |
+            | capitalize() | Converts the first character to upper case |
+            | casefold() | Converts string into lower case |
+            | center() | Returns a centered string |
+            | count() | Returns the number of times a specified value occurs in a string |
+            | encode() | Returns an encoded version of the string |
+            | endswith() | Returns true if the string ends with the specified value |
+            | expandtabs() | Sets the tab size of the string |
+            | find() | Searches the string for a specified value and returns the position of where it was found |
+            | format() | Formats specified values in a string |
             | format_map() | Formats specified values in a string |
-            | https://www.w3schools.com/python/ref_string_index.asp | Searches the string for a specified value and returns the position of where it was found |
-            | https://www.w3schools.com/python/ref_string_isalnum.asp | Returns True if all characters in the string are alphanumeric |
-            | https://www.w3schools.com/python/ref_string_isalpha.asp | Returns True if all characters in the string are in the alphabet |
-            | https://www.w3schools.com/python/ref_string_isdecimal.asp | Returns True if all characters in the string are decimals |
-            | https://www.w3schools.com/python/ref_string_isdigit.asp | Returns True if all characters in the string are digits |
-            | https://www.w3schools.com/python/ref_string_isidentifier.asp | Returns True if the string is an identifier |
-            | https://www.w3schools.com/python/ref_string_islower.asp | Returns True if all characters in the string are lower case |
-            | https://www.w3schools.com/python/ref_string_isnumeric.asp | Returns True if all characters in the string are numeric |
-            | https://www.w3schools.com/python/ref_string_isprintable.asp | Returns True if all characters in the string are printable |
-            | https://www.w3schools.com/python/ref_string_isspace.asp | Returns True if all characters in the string are whitespaces |
-            | https://www.w3schools.com/python/ref_string_istitle.asp | Returns True if the string follows the rules of a title |
-            | https://www.w3schools.com/python/ref_string_isupper.asp | Returns True if all characters in the string are upper case |
-            | https://www.w3schools.com/python/ref_string_join.asp | Joins the elements of an iterable to the end of the string |
-            | https://www.w3schools.com/python/ref_string_ljust.asp | Returns a left justified version of the string |
-            | https://www.w3schools.com/python/ref_string_lower.asp | Converts a string into lower case |
-            | https://www.w3schools.com/python/ref_string_lstrip.asp | Returns a left trim version of the string |
-            | https://www.w3schools.com/python/ref_string_maketrans.asp | Returns a translation table to be used in translations |
-            | https://www.w3schools.com/python/ref_string_partition.asp | Returns a tuple where the string is parted into three parts |
-            | https://www.w3schools.com/python/ref_string_replace.asp | Returns a string where a specified value is replaced with a specified value |
-            | https://www.w3schools.com/python/ref_string_rfind.asp | Searches the string for a specified value and returns the last position of where it was found |
-            | https://www.w3schools.com/python/ref_string_rindex.asp | Searches the string for a specified value and returns the last position of where it was found |
-            | https://www.w3schools.com/python/ref_string_rjust.asp | Returns a right justified version of the string |
-            | https://www.w3schools.com/python/ref_string_rpartition.asp | Returns a tuple where the string is parted into three parts |
-            | https://www.w3schools.com/python/ref_string_rsplit.asp | Splits the string at the specified separator, and returns a list |
-            | https://www.w3schools.com/python/ref_string_rstrip.asp | Returns a right trim version of the string |
-            | https://www.w3schools.com/python/ref_string_split.asp | Splits the string at the specified separator, and returns a list |
-            | https://www.w3schools.com/python/ref_string_splitlines.asp | Splits the string at line breaks and returns a list |
-            | https://www.w3schools.com/python/ref_string_startswith.asp | Returns true if the string starts with the specified value |
-            | https://www.w3schools.com/python/ref_string_strip.asp | Returns a trimmed version of the string |
-            | https://www.w3schools.com/python/ref_string_swapcase.asp | Swaps cases, lower case becomes upper case and vice versa |
-            | https://www.w3schools.com/python/ref_string_title.asp | Converts the first character of each word to upper case |
-            | https://www.w3schools.com/python/ref_string_translate.asp | Returns a translated string |
-            | https://www.w3schools.com/python/ref_string_upper.asp | Converts a string into upper case |
-            | https://www.w3schools.com/python/ref_string_zfill.asp | Fills the string with a specified number of 0 values at the beginning |
+            | index() | Searches the string for a specified value and returns the position of where it was found |
+            | isalnum() | Returns True if all characters in the string are alphanumeric |
+            | isalpha() | Returns True if all characters in the string are in the alphabet |
+            | isdecimal() | Returns True if all characters in the string are decimals |
+            | isdigit() | Returns True if all characters in the string are digits |
+            | isidentifier() | Returns True if the string is an identifier |
+            | islower() | Returns True if all characters in the string are lower case |
+            | isnumeric() | Returns True if all characters in the string are numeric |
+            | isprintable() | Returns True if all characters in the string are printable |
+            | isspace() | Returns True if all characters in the string are whitespaces |
+            | istitle() | Returns True if the string follows the rules of a title |
+            | isupper() | Returns True if all characters in the string are upper case |
+            | join() | Joins the elements of an iterable to the end of the string |
+            | ljust() | Returns a left justified version of the string |
+            | lower() | Converts a string into lower case |
+            | lstrip() | Returns a left trim version of the string |
+            | maketrans() | Returns a translation table to be used in translations |
+            | partition() | Returns a tuple where the string is parted into three parts |
+            | replace() | Returns a string where a specified value is replaced with a specified value |
+            | rfind() | Searches the string for a specified value and returns the last position of where it was found |
+            | rindex()| Searches the string for a specified value and returns the last position of where it was found |
+            | rjust() | Returns a right justified version of the string |
+            | rpartition() | Returns a tuple where the string is parted into three parts |
+            | rsplit() | Splits the string at the specified separator, and returns a list |
+            | rstrip() | Returns a right trim version of the string |
+            | split() | Splits the string at the specified separator, and returns a list |
+            | splitlines() | Splits the string at line breaks and returns a list |
+            | startswith() | Returns true if the string starts with the specified value |
+            | strip() | Returns a trimmed version of the string |
+            | swapcase() | Swaps cases, lower case becomes upper case and vice versa |
+            | title() | Converts the first character of each word to upper case |
+            | translate() | Returns a translated string |
+            | upper() | Converts a string into upper case |
+            | zfill() | Fills the string with a specified number of 0 values at the beginning |
+            
         - String format()
             
             ```python
@@ -1544,24 +1546,24 @@ redirect_from:
             
             | Method | Description |
             | --- | --- |
-            | https://www.w3schools.com/python/ref_set_add.asp | Adds an element to the set |
-            | https://www.w3schools.com/python/ref_set_clear.asp | Removes all the elements from the set |
-            | https://www.w3schools.com/python/ref_set_copy.asp | Returns a copy of the set |
-            | https://www.w3schools.com/python/ref_set_difference.asp | Returns a set containing the difference between two or more sets |
-            | https://www.w3schools.com/python/ref_set_difference_update.asp | Removes the items in this set that are also included in another, specified set |
-            | https://www.w3schools.com/python/ref_set_discard.asp | Remove the specified item |
-            | https://www.w3schools.com/python/ref_set_intersection.asp | Returns a set, that is the intersection of two other sets |
-            | https://www.w3schools.com/python/ref_set_intersection_update.asp | Removes the items in this set that are not present in other, specified set(s) |
-            | https://www.w3schools.com/python/ref_set_isdisjoint.asp | Returns whether two sets have a intersection or not |
-            | https://www.w3schools.com/python/ref_set_issubset.asp | Returns whether another set contains this set or not |
-            | https://www.w3schools.com/python/ref_set_issuperset.asp | Returns whether this set contains another set or not |
-            | https://www.w3schools.com/python/ref_set_pop.asp | Removes an element from the set |
-            | https://www.w3schools.com/python/ref_set_remove.asp | Removes the specified element |
-            | https://www.w3schools.com/python/ref_set_symmetric_difference.asp | Returns a set with the symmetric differences of two sets |
-            | https://www.w3schools.com/python/ref_set_symmetric_difference_update.asp | inserts the symmetric differences from this set and another |
-            | https://www.w3schools.com/python/ref_set_union.asp | Return a set containing the union of sets |
-            | https://www.w3schools.com/python/ref_set_update.asp | Update the set with the union of this set and others |
-            
+            | add(element) | Adds an element to the set |
+            | clear() | Removes all the elements from the set |
+            | copy() | Returns a shallow copy of the set |
+            | difference(other_set, ...) | Returns a set containing the difference between the set and one or more other sets |
+            | difference_update(other_set, ...) | Removes the items from the set that are also included in one or more other sets |
+            | discard(element) | Remove the specified element from the set |
+            | intersection(other_set, ...) | Returns a set that is the intersection of the set and one or more other sets |
+            | intersection_update(other_set, ...) | Removes the items from the set that are not present in one or more other sets |
+            | isdisjoint(other_set) | Returns whether the set and another set have an intersection or not |
+            | issubset(other_set) | Returns whether the set is a subset of another set or not |
+            | issuperset(other_set) | Returns whether the set is a superset of another set or not |
+            | pop() | Removes and returns an arbitrary element from the set |
+            | remove(element) | Removes the specified element from the set. Raises a KeyError if the element is not present |
+            | symmetric_difference(other_set) | Returns a set with the symmetric differences of the set and another set |
+            | symmetric_difference_update(other_set) | Inserts the symmetric differences from the set and another set |
+            | union(other_set, ...) | Returns a set containing the union of the set and one or more other sets |
+            | update(other_set, ...) | Updates the set with the union of the set and one or more other sets |
+
     - Dictionaries
         - Basic
             - store data values in key : value pairs
@@ -1845,17 +1847,17 @@ redirect_from:
             
             | Method | Description |
             | --- | --- |
-            | https://www.w3schools.com/python/ref_dictionary_clear.asp | Removes all the elements from the dictionary |
-            | https://www.w3schools.com/python/ref_dictionary_copy.asp | Returns a copy of the dictionary |
-            | https://www.w3schools.com/python/ref_dictionary_fromkeys.asp | Returns a dictionary with the specified keys and value |
-            | https://www.w3schools.com/python/ref_dictionary_get.asp | Returns the value of the specified key |
-            | https://www.w3schools.com/python/ref_dictionary_items.asp | Returns a list containing a tuple for each key value pair |
-            | https://www.w3schools.com/python/ref_dictionary_keys.asp | Returns a list containing the dictionary's keys |
-            | https://www.w3schools.com/python/ref_dictionary_pop.asp | Removes the element with the specified key |
-            | https://www.w3schools.com/python/ref_dictionary_popitem.asp | Removes the last inserted key-value pair |
-            | https://www.w3schools.com/python/ref_dictionary_setdefault.asp | Returns the value of the specified key. If the key does not exist: insert the key, with the specified value |
-            | https://www.w3schools.com/python/ref_dictionary_update.asp | Updates the dictionary with the specified key-value pairs |
-            | https://www.w3schools.com/python/ref_dictionary_values.asp | Returns a list of all the values in the dictionary |
+            | clear() | Removes all the elements from the dictionary |
+            | copy() | Returns a shallow copy of the dictionary |
+            | fromkeys(keys, value) | Returns a new dictionary with the specified keys and value |
+            | get(key, default=None) | Returns the value of the specified key. If the key does not exist, returns the default value |
+            | items() | Returns a list containing a tuple for each key-value pair in the dictionary |
+            | keys() | Returns a list containing the dictionary's keys |
+            | pop(key, default=None) | Removes and returns the value for the specified key. If the key is not found, returns the default value |
+            | popitem() | Removes and returns the last inserted key-value pair as a tuple |
+            | setdefault(key, default=None) | Returns the value of the specified key. If the key does not exist, inserts the key with the specified value |
+            | update(other) | Updates the dictionary with the key-value pairs from another dictionary or iterable |
+            | values() | Returns a list of all the values in the dictionary |
 
 - Functions
     - If ... Else
