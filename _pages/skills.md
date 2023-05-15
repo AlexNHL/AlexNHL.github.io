@@ -24,9 +24,12 @@ redirect_from:
 | **Artificial Intelligence** | **Database Management**  | **Web Applications**   | **Software Engineering**     |
 |:---------------------------:|:----------------------------:|:------------------------:|:---------------------:|
 
-<table>
+<table class="center">
     <tr>
-        <td>Artificial Intelligence</td><td>Database Management</td><td>Web Applications</td><td>Software Engineering</td>
+        <td><b>Artificial Intelligence</b></td>
+        <td><b>Database Management</b></td>
+        <td><b>Web Applications</b></td>
+        <td><b>Software Engineering</b></td>
     </tr>
 </table>
 
