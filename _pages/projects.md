@@ -1,24 +1,10 @@
 ---
 permalink: /projects/
-title: ""
+title: "Projects"
 author_profile: true
 redirect_from: 
 
 ---
-
-# Individual
-
-### [Data Visualization on Data Science Job Salaries in Tableau](https://github.com/AlexNHL/dv_ds_salary)
-
-* Performed **data cleaning**{: style="color: DarkSlateBlue"} on ambiguous attributes, missing values, and irrelevant data
-* Created **visualizations**{: style="color: DarkSlateBlue"} and **calculation fields**{: style="color: DarkSlateBlue"} that showed the distribution, trends, and percentage changes of salaries by different attributes
-* Used **parameters**{: style="color: DarkSlateBlue"} to create interactive visualizations that allowed users to filter the data by different attributes
-* Created a **dashboard**{: style="color: DarkSlateBlue"} that combined multiple visualizations into a single view and allowed users to interactively explore the data with different filters
-* Applied **actions**{: style="color: DarkSlateBlue"} to create interactivity between different visualizations in the dashboard, such as highlighting the data points in other visualizations when users selected a specific data in the map or chart
-
-&nbsp;
-
-# Group
 
 ### [Exploring Happiness Correlations with Machine Learning and Deep Learning](https://github.com/AlexNHL/ml_dl_happiness)
 
@@ -28,6 +14,16 @@ redirect_from:
 * Predicted the happiness score and identified the most significant factors that contribute to happiness scores
 * Conducted **error analysis**{: style="color: DarkSlateBlue"} to compare the performance of different models
 * Applied psychological theories and research to provide a more comprehensive understanding
+
+
+### [Data Visualization on Data Science Job Salaries in Tableau](https://github.com/AlexNHL/dv_ds_salary)
+
+* Performed **data cleaning**{: style="color: DarkSlateBlue"} on ambiguous attributes, missing values, and irrelevant data
+* Created **visualizations**{: style="color: DarkSlateBlue"} and **calculation fields**{: style="color: DarkSlateBlue"} that showed the distribution, trends, and percentage changes of salaries by different attributes
+* Used **parameters**{: style="color: DarkSlateBlue"} to create interactive visualizations that allowed users to filter the data by different attributes
+* Created a **dashboard**{: style="color: DarkSlateBlue"} that combined multiple visualizations into a single view and allowed users to interactively explore the data with different filters
+* Applied **actions**{: style="color: DarkSlateBlue"} to create interactivity between different visualizations in the dashboard, such as highlighting the data points in other visualizations when users selected a specific data in the map or chart
+
 
 ### [Web Application of Event Check System](https://github.com/AlexNHL/web_event)
 
