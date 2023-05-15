@@ -8,7 +8,7 @@ redirect_from:
 
 ## Mathematics
 
-|:-----------------:|:------------------------------:|:-----------------:|:----------------------------:|
+| :--------------: |:------------------------------:|:-----------------:|:----------------------------:|
 | **Calculus**      | **Matrix and Linear Algebra**  | **Probability**   | **Stochastic Processes**     |
 
 
@@ -20,8 +20,8 @@ redirect_from:
 
 ## Computer Science
 
-| **Artificial Intelligence**      | **Database Management**  | **Web Applications**   | **Software Engineering**     |
-|:-------------------------:|:----------------------------:|:------------------------:|:---------------------:|
+| **Artificial Intelligence** | **Database Management**  | **Web Applications**   | **Software Engineering**     |
+|:---------------------------:|:----------------------------:|:------------------------:|:---------------------:|
 
 
 ## Python
