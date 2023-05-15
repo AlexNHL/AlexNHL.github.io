@@ -13,7 +13,7 @@ redirect_from:
 
 My name is Ng Hon Lam (吳翰林). I'm a student at The Chinese University of Hong Kong (CUHK), studying **Statistics**{: style="color: Chocolate"} and **Computer Science**{: style="color: Chocolate"}. I'm passionate and enthusiastic about implementing artificial intelligence through machine learning, deep learning, and statistical inference techniques, utilizing both parametric and non-parametric methods.
 
-As a statistics student, I'm deeply fascinated by the power of data-driven approaches to tackle complex challenges and uncover insights in the real world. Through my studies, I've developed a solid understanding of statistical theory and methodology, as well as practical skills in programming. I'm especially interested in applying these skills to my area of interest and real-world problems.
+I'm deeply fascinated by the power of data-driven approaches to tackle complex challenges and uncover insights in the real world. Through my studies, I've developed a solid understanding of statistical theory and methodology, as well as practical skills in programming. I'm especially interested in applying these skills to my area of interest and real-world problems.
 
 On this website, you'll find information about my academic and background, as well as examples of my work in the following areas:
 
