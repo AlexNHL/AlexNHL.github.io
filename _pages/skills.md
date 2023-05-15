@@ -8,21 +8,35 @@ redirect_from:
 
 ## Mathematics
 
-| **Calculus**      | **Matrix and Linear Algebra**  |
-|:-----------------:|:------------------------------:|
-| **Probability**   | **Stochastic Processes**       |
+<table>
+    <tr>
+        <td align="center"><b>Calculus</b></td>
+        <td align="center"><b>Matrix and Linear Algebra</b></td>
+        <td align="center"><b>Probability</b></td>
+        <td align="center"><b>Stochastic Processes</b></td>
+    </tr>
+</table>
 
 
 ## Statistics
 
-| **Statistical Learning**  | **Data Visualization**       | **Statistical Analysis** | **Time Series**      |
-|:-------------------------:|:----------------------------:|:------------------------:|:---------------------:|
-| **Statistical Inference** | **Nonparametric Statistics** | **Regression Analysis**  | **Survey Methods**    |
+<table>
+    <tr>
+        <td align="center"><b>Statistical Learning</b></td>
+        <td align="center"><b>Statistical Analysis</b></td>
+        <td align="center"><b>Data Visualization</b></td>
+        <td align="center"><b>Time Series</b></td>
+    </tr>
+    <tr>
+        <td align="center"><b>Statistical Inference</b></td>
+        <td align="center"><b>Nonparametric Statistics</b></td>
+        <td align="center"><b>Regression Analysis</b></td>
+        <td align="center"><b>Survey Methods</b></td>
+    </tr>
+</table>
+
 
 ## Computer Science
-
-| **Artificial Intelligence** | **Database Management**  | **Web Applications**   | **Software Engineering**     |
-|:---------------------------:|:----------------------------:|:------------------------:|:---------------------:|
 
 <table>
     <tr>
@@ -32,7 +46,6 @@ redirect_from:
         <td align="center"><b>Software Engineering</b></td>
     </tr>
 </table>
-
 
 
 ## Python
