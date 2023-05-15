@@ -814,6 +814,7 @@ redirect_from:
             | % | Modulus | x % y |
             | ** | Exponentiation | x ** y |
             | // | Floor division | x // y |
+            
         - Assignment Operators
             
             
@@ -828,7 +829,6 @@ redirect_from:
             | //= | x //= 3 | x = x // 3 |
             | **= | x **= 3 | x = x ** 3 |
             | &= | x &= 3 | x = x & 3 |
-            | |= | x |= 3 | x = x | 3 |
             | ^= | x ^= 3 | x = x ^ 3 |
             | >>= | x >>= 3 | x = x >> 3 |
             | <<= | x <<= 3 | x = x << 3 |
@@ -872,7 +872,6 @@ redirect_from:
             | Operator | Name | Description |
             | --- | --- | --- |
             | &  | AND | Sets each bit to 1 if both bits are 1 |
-            | | | OR | Sets each bit to 1 if one of two bits is 1 |
             |  ^ | XOR | Sets each bit to 1 if only one of two bits is 1 |
             | ~  | NOT | Inverts all the bits |
             | << | Zero fill left shift | Shift left by pushing zeros in from the right and let the leftmost bits fall off |
@@ -3051,7 +3050,6 @@ redirect_from:
             | + | One or more occurrences | "he.+o" |
             | ? | Zero or one occurrences | "he.?o" |
             | { } | Exactly the specified number of occurrences | "he.{2}o" |
-            | | | Either or | "falls|stays" |
             | ( ) | Capture and group |  |
             
         - Special sequence
@@ -3060,10 +3058,8 @@ redirect_from:
             | Character | Description | Example |
             | --- | --- | --- |
             | \A | Returns a match if the specified characters are at the beginning of the string | "\AThe" |
-            | \b | Returns a match where the specified characters are at the beginning or at the end of a word(the "r" in the beginning is making sure that the string is being treated as a "raw string") | r"\bain"
-            r"ain\b" |
-            | \B | Returns a match where the specified characters are present, but NOT at the beginning (or at the end) of a word(the "r" in the beginning is making sure that the string is being treated as a "raw string") | r"\Bain"
-            r"ain\B" |
+            | \b | Returns a match where the specified characters are at the beginning or at the end of a word(the "r" in the beginning is making sure that the string is being treated as a "raw string") | r"\bain" r"ain\b" |
+            | \B | Returns a match where the specified characters are present, but NOT at the beginning (or at the end) of a word(the "r" in the beginning is making sure that the string is being treated as a "raw string") | r"\Bain" r"ain\B" |
             | \d | Returns a match where the string contains digits (numbers from 0-9) | "\d" |
             | \D | Returns a match where the string DOES NOT contain digits | "\D" |
             | \s | Returns a match where the string contains a white space character | "\s" |
@@ -3083,7 +3079,7 @@ redirect_from:
             | [0-9] | Returns a match for any digit between 0 and 9 |
             | [0-5][0-9] | Returns a match for any two-digit numbers from 00 and 59 |
             | [a-zA-Z] | Returns a match for any character alphabetically between a and z, lower case OR upper case |
-            | [+] | In sets, +, *, ., |, (), $,{} has no special meaning, so [+] means: return a match for any + character in the string |
+            | [+] | In sets, +, *, ., (), $,{} has no special meaning, so [+] means: return a match for any + character in the string |
         
         | Function | Description |
         | --- | --- |
