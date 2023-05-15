@@ -6,4 +6,4 @@ redirect_from:
 ---
 
 
-## [Notes for R](https://alexnhl.github.io/rnotes/)
+## [Notes for R](https://alexnhl.github.io/notesr/)
