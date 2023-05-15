@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Notes for R"
-permalink: /rnotes/
+permalink: /notesr/
 author_profile: true
 redirect_from:
 ---
