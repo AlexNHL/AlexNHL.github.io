@@ -17,9 +17,20 @@ As a statistics student, I'm deeply fascinated by the power of data-driven appro
 
 On this website, you'll find information about my academic and background, as well as examples of my work in the following areas:
 
-| **Artificial Intelligence**      | **Statistical Machine Learning**  | **Deep Learning**   | **Data Visualization**     |
-|:--------------------------------:|:-----------------------:|:-------------------:|:--------------------------:|
-| **Statistical Inference**        | **Database Management**           | **Web Development** | **Software Engineering**   |
+<table>
+    <tr>
+        <td align="center"><b>Artificial Intelligence</b></td>
+        <td align="center"><b>Statistical Machine Learning</b></td>
+        <td align="center"><b>Deep Learning</b></td>
+        <td align="center"><b>Data Visualization</b></td>
+    </tr>
+    <tr>
+        <td align="center"><b>Statistical Inference</b></td>
+        <td align="center"><b>Database Management</b></td>
+        <td align="center"><b>Web Development</b></td>
+        <td align="center"><b>Software Engineering</b></td>
+    </tr>
+</table>
 
 &nbsp;
 # Certificates/ Awards
