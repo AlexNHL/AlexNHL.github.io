@@ -5,5 +5,10 @@ author_profile: true
 redirect_from: 
 ---
 
+# Notes for Programming 
 
-## [Notes for R](https://alexnhl.github.io/notesr/)
+## [Self-Study Notes for Python Programming](https://alexnhl.github.io/notespy/)
+
+## [Self-Study Notes for R Programming](https://alexnhl.github.io/notesr/)
+
+# Notes for HKDSE Examination
