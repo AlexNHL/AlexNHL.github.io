@@ -29,6 +29,7 @@ redirect_from:
 
 * Developed an event check system for LCSD Cultural Programmes, enabling users to access event information across different locations
 * Implemented the system using **React**{: style="color: DarkSlateBlue"} for the front-end and **Node.js**{: style="color: DarkSlateBlue"} with **Express**{: style="color: DarkSlateBlue"} for the back-end
+* Implemented user **authentication**{: style="color: DarkSlateBlue"} and **authorization**{: style="color: DarkSlateBlue"} to allow for different roles such as admins and general users
 * Utilized **MongoDB**{: style="color: DarkSlateBlue"} as the database, containing user and event information
 * Enabled users to search locations by keyword or categories, comment on events, and label locations as favorites
 
