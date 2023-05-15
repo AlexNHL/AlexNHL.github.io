@@ -7,7 +7,6 @@ redirect_from:
 ---
 
 ## Mathematics
-
 <table>
     <tr>
         <td align="center"><b>Calculus</b></td>
@@ -19,7 +18,6 @@ redirect_from:
 
 
 ## Statistics
-
 <table>
     <tr>
         <td align="center"><b>Statistical Learning</b></td>
@@ -37,7 +35,6 @@ redirect_from:
 
 
 ## Computer Science
-
 <table>
     <tr>
         <td align="center"><b>Artificial Intelligence</b></td>
