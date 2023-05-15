@@ -6,7 +6,7 @@ redirect_from:
 
 ---
 
-### [Exploring Happiness Correlations with Machine Learning and Deep Learning](https://github.com/AlexNHL/ml_dl_happiness)
+### [Exploring Happiness Correlations with Artificial Intelligence](https://github.com/AlexNHL/ml_dl_happiness)
 
 * Explored correlations between happiness scores and various socioeconomic factors using statistical analysis
 * Applied **machine learning**{: style="color: DarkSlateBlue"} methods, including Decision Tree, Random Forest, Extreme Gradient Boosting
