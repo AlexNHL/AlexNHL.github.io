@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Notes for Python"
-permalink: /pynotes/
+permalink: /notespy/
 author_profile: true
 redirect_from:
 ---
