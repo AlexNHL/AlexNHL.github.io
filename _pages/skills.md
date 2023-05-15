@@ -8,8 +8,9 @@ redirect_from:
 
 ## Mathematics
 
-| :--------------: |:------------------------------:|:-----------------:|:----------------------------:|
-| **Calculus**      | **Matrix and Linear Algebra**  | **Probability**   | **Stochastic Processes**     |
+| **Calculus**      | **Matrix and Linear Algebra**  |
+|:-----------------:|:------------------------------:|
+| **Probability**   | **Stochastic Processes**       |
 
 
 ## Statistics
