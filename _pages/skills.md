@@ -7,15 +7,18 @@ redirect_from:
 ---
 
 ## Mathematics
+
 | **Calculus**      | **Matrix and Linear Algebra**  | **Probability**   | **Stochastic Processes**     |
 |:-------------------------:|:----------------------------:|:------------------------:|:---------------------:|
 
 ## Statistics
+
 | **Statistical Learning**  | **Data Visualization**       | **Statistical Analysis** | **Time Series**      |
 |:-------------------------:|:----------------------------:|:------------------------:|:---------------------:|
 | **Statistical Inference** | **Nonparametric Statistics** | **Regression Analysis**  | **Survey Methods**    |
 
 ## Computer Science
+
 | **Artificial Intelligence**      | **Database Management**  | **Web Applications**   | **Software Engineering**     |
 |:-------------------------:|:----------------------------:|:------------------------:|:---------------------:|
 
