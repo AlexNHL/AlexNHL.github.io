@@ -24,6 +24,13 @@ redirect_from:
 | **Artificial Intelligence** | **Database Management**  | **Web Applications**   | **Software Engineering**     |
 |:---------------------------:|:----------------------------:|:------------------------:|:---------------------:|
 
+<table>
+    <tr>
+        <td>Artificial Intelligence</td><td>Database Management</td><td>Web Applications</td><td>Software Engineering</td>
+    </tr>
+</table>
+
+
 
 ## Python
  * Use python for data cleaning, exploratory data analysis, visualization, statistics, machine learning, deep learning, error analysis, and present the results using Jupyter Notebooks, Markdown and dashboards
