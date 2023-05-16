@@ -16,3 +16,4 @@ redirect_from:
 
 # Notes for HKDSE Examination
 
+## [A Comprehensive Review of Calculus and Statistics Concepts](http://alexnhl.github.io/files/ComprehensiveReviewOfM1.pdf)
