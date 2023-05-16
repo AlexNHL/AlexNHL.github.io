@@ -72,8 +72,8 @@ redirect_from:
 * interact between different visualizations in dashboard by actions
 
 ## JavaScript
-* Node.js
-* React
+* Node.js (For backend server)
+* React (For frontend web applications)
 
 ## SQL (MySQL, Oracle)
 * Data cleaning: remove duplicates, filter and sort data, transform data, and validate data integrity
