@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
 ---
 
-Copyright by Ng Hon Lam
+Created by Ng Hon Lam
 
 - Basic commands
     
