@@ -15,7 +15,7 @@ My name is Ng Hon Lam (吳翰林), and I'm a student at The Chinese University o
 
 I'm passionate about **artificial intelligence**{: style="color: #9966cc"} and using **machine learning**{: style="color: #9966cc"}, **deep learning**{: style="color: #9966cc"}, and **statistical inference** techniques to tackle complex challenges and uncover insights in the real world. Through my studies, I've developed a solid understanding of **mathematical**{: style="color: #458b74"} and **statistical**{: style="color: #458b74"} theory, and practical **programming**{: style="color: #458b74"} skills.
 
-On this website, you'll find information about my academic and background, as well as examples of my work in the following areas:
+On this website, you'll find information about my academic and background, as well as teaching materials and examples of my work in the following areas:
 
 <table>
     <tr>
