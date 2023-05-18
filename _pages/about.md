@@ -13,7 +13,7 @@ redirect_from:
 
 My name is Ng Hon Lam (吳翰林), and I'm a student at The Chinese University of Hong Kong (CUHK), studying **Statistics**{: style="color: Chocolate"} and **Computer Science**{: style="color: Chocolate"}. 
 
-I'm passionate about **artificial intelligence**{: style="color: Amethyst"} and using **machine learning**{: style="color: Amethyst"}, **deep learning**{: style="color: #698976"}, and **statistical inference** techniques to tackle complex challenges and uncover insights in the real world. Through my studies, I've developed a solid understanding of **mathematical**{: style="color: Aquamarine4"} and **statistical**{: style="color: Aquamarine4"} theory, and practical **programming**{: style="color: Aquamarine4"} skills.
+I'm passionate about **artificial intelligence**{: style="color: #9966cc"} and using **machine learning**{: style="color: #9966cc"}, **deep learning**{: style="color: #9966cc"}, and **statistical inference** techniques to tackle complex challenges and uncover insights in the real world. Through my studies, I've developed a solid understanding of **mathematical**{: style="color: #458b74"} and **statistical**{: style="color: #458b74"} theory, and practical **programming**{: style="color: #458b74"} skills.
 
 On this website, you'll find information about my academic and background, as well as examples of my work in the following areas:
 
