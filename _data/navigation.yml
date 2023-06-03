@@ -4,17 +4,17 @@ main:
   - title: "Home"
     url: /
    
+  - title: "Teaching"
+    url: /teaching/    
+   
+  - title: "Notes"
+    url: /notes/
+   
   - title: "Skills"
     url: /skills/
   
   - title: "Projects"
     url: /projects/
-    
-#  - title: "Teaching"
-#    url: /teaching/    
-   
-  - title: "Notes"
-    url: /notes/
    
 #  - title: "Resume"
 #    url: /cv/
