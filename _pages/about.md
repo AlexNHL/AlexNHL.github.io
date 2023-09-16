@@ -11,10 +11,9 @@ redirect_from:
 
 # Welcome!
 
-My name is Ng Hon Lam, and I graduated from The Chinese University of Hong Kong (CUHK) with a degree in **Statistics**{: style="color: Chocolate"} and **Computer Science**{: style="color: Chocolate"}. 
+My name is Ng Hon Lam, and I graduated from The Chinese University of Hong Kong (CUHK) with a degree in **Statistics**{: style="color: Chocolate"} and a minor in **Computer Science**{: style="color: Chocolate"}. 
 
 I'm passionate about **artificial intelligence**{: style="color: #9966cc"} and using **machine learning**{: style="color: #9966cc"}, **deep learning**{: style="color: #9966cc"}, and **statistical inference**{: style="color: #9966cc"} techniques to tackle complex challenges and uncover insights in the real world. Through my studies, I've developed a solid understanding of **mathematics**{: style="color: #5f9ea0"}, **statistics**{: style="color: #5f9ea0"}, and practical **programming**{: style="color: #5f9ea0"} skills.
-
 
 
 On this website, you'll find information about my academic and background, as well as teaching materials and examples of my work in the following areas:
