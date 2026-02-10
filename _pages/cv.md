@@ -13,16 +13,6 @@ EDUCATION
 * B.Sc. in Statistics, 09/2019 - Present
 * Data Analytics Stream
 * Minor in Computer Science
-* Cumulative GPA: 3.2/4.0
-
-&nbsp;
-
-WORK EXPERIENCE
-======
-### IT Support Technician, HyRead eBook, Hong Kong
-* Assisted IT professionals in improving the overall user experience by hardware and software testing, and translating user feedback into technical language for engineers
-* Acted as a liaison between school and staff to facilitate the implementation of e-learning at school
-* Provided assistance to clients experiencing technical issues with hardware or software systems
 
 &nbsp;
 
